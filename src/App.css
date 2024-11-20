@@ -39,7 +39,7 @@ aside{
 
 .image-below {
   width: 450px;
-  height: auto;
+  height: 400px;
   border: 2px solid rgb(0, 128, 117);
   margin-top: 35px;
 }
@@ -48,12 +48,13 @@ aside{
   display: inline-block;
 }
 .circle-button {
-  width: 40px;
-  height: 40px;
+  width: 30px;
+  height: 30px;
   background-color: lightblue;
   border-radius: 50%;
   position: absolute;
   transform: translate(-50%, -50%);
   cursor: pointer;
+  opacity: 80%;
 }
 
